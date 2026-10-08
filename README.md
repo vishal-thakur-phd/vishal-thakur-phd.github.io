@@ -8,6 +8,6 @@ Edit `index.html` to update the profile. Add a CV PDF under `assets/` and replac
 
 ## GitHub Pages
 
-In Settings → Pages, select **Deploy from a branch**, **main**, and **/ (root)**. The expected site address is https://vishalthakursvgc-lab.github.io/academic-website/.
+In Settings → Pages, select **Deploy from a branch**, **main**, and **/ (root)**. The expected site address is https://vishal-thakur-phd.github.io/.
 
 Research data and private progress notes belong in the separate private research repository.
